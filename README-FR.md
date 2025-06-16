@@ -9,7 +9,7 @@ Il a pour but de fournir à la PME MBF une solution clé en main pour :
 - Centraliser les données dans une base MySQL hébergée sur AWS RDS
 - Déployer cette solution de manière automatisée, virtualisée et conteneurisée
 
-# Structure du projet
+## Structure du projet
 ├── Vagrantfile # Crée 2 VM Ubuntu + lance le script LAMP
 ├── install_lamp.sh # Script Bash : installation automatisée de la pile LAMP
 ├── init_db.sql # Script SQL : création des tables (leads, feedback)
@@ -20,16 +20,16 @@ Il a pour but de fournir à la PME MBF une solution clé en main pour :
 │ └── style.css # Design du formulaire
 └── README.md # Ce fichier
 
-# Prérequis
+## Prérequis
 
 - [VirtualBox](https://www.virtualbox.org/) (v7.1.4 ou +)
 - [Vagrant](https://developer.hashicorp.com/vagrant/downloads) (v2.4.5 ou +)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - Un compte AWS avec RDS activé (MySQL 8.0)
 
-# Déploiement
+## Déploiement
 
-## 1. Cloner le projet
+### 1. Cloner le projet
 
 ```bash
 git clone https://github.com/serena140/LP-ASSR-AdmSys.git
