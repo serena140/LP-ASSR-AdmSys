@@ -1,4 +1,4 @@
-# LP-ASSR-AdmSys-2024-25
+# LP-ASSR-AdmSys-2024-25 - Version Française
 Projet d'Administration Système avec M. Cerin : Projet de déploiement LAMP virtualisé avec Docker et BDD distante AWS RDS.
 
 ## Objectif
@@ -18,7 +18,7 @@ Il a pour but de fournir à la PME MBF une solution clé en main pour :
   - index.php # Page d'accueil du site MBF
   - contact.php # Formulaire de contact (Leads + Feedback)
   - style.css # Design du formulaire
-- README.md # Ce fichier
+- README-FR.md # Ce fichier
 
 ## Prérequis
 
