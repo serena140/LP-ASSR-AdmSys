@@ -1,7 +1,7 @@
 # LP-ASSR-AdmSys-2024-25
 Projet d'Administration Système avec M. Cerin : Projet de déploiement LAMP virtualisé avec Docker et BDD distante AWS RDS.
 
-# Objectif
+## Objectif
 Ce projet a été réalisé dans le cadre de la Licence Professionnelle ASSR (2024-2025) à l'IUT de Villetaneuse – Université Sorbonne Paris Nord.  
 Il a pour but de fournir à la PME MBF une solution clé en main pour :
 
