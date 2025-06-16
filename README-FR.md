@@ -69,3 +69,8 @@ Accéder à l'application via : http://localhost:8080
 
 ## Documentation complémentaire
 Pour les détails techniques, captures d'écran, schéma d'architecture, et code commenté, consulter le rapport PDF.
+
+## Auteure
+Serena Paté - Licence Professionnelle ASSR – 2024/2025
+Université Sorbonne Paris Nord – IUT de Villetaneuse
+Encadrant : Christophe Cerin
