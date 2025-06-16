@@ -34,6 +34,7 @@ Il a pour but de fournir à la PME MBF une solution clé en main pour :
 ```bash
 git clone https://github.com/serena140/LP-ASSR-AdmSys.git
 cd LP-ASSR-AdmSys
+```
 
 ### 2. Lancer 
 
