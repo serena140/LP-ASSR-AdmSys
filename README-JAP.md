@@ -19,6 +19,8 @@
   - contact.php # 問い合わせフォーム（リード＋フィードバック）
   - style.css # フォームのデザイン
 - README-JAP.md # 本ファイル
+- README-FR.md # 同じファイルのフランス語版
+- README-EN.md # 同じファイルの英語版
 
 ## 前提条件
 
